@@ -1,0 +1,16 @@
+C:\Users\dunca\Desktop\UBB Anu 3 Sem 1\PDP\Lab 1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\dunca\Desktop\UBB Anu 3 Sem 1\PDP\Lab 1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\dunca\Desktop\UBB Anu 3 Sem 1\PDP\Lab 1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\dunca\Desktop\UBB Anu 3 Sem 1\PDP\Lab 1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\dunca\Desktop\UBB Anu 3 Sem 1\PDP\Lab 1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\dunca\Desktop\UBB Anu 3 Sem 1\PDP\Lab 1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\dunca\Desktop\UBB Anu 3 Sem 1\PDP\Lab 1\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\dunca\Desktop\UBB Anu 3 Sem 1\PDP\Lab 1\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dunca\Desktop\UBB\UBB ANU 3\UBB SEM 1\PDP\Lab 1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\dunca\Desktop\UBB\UBB ANU 3\UBB SEM 1\PDP\Lab 1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\dunca\Desktop\UBB\UBB ANU 3\UBB SEM 1\PDP\Lab 1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\dunca\Desktop\UBB\UBB ANU 3\UBB SEM 1\PDP\Lab 1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\dunca\Desktop\UBB\UBB ANU 3\UBB SEM 1\PDP\Lab 1\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dunca\Desktop\UBB\UBB ANU 3\UBB SEM 1\PDP\Lab 1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\dunca\Desktop\UBB\UBB ANU 3\UBB SEM 1\PDP\Lab 1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\dunca\Desktop\UBB\UBB ANU 3\UBB SEM 1\PDP\Lab 1\Lab1\Lab1\obj\Debug\Lab1.pdb
